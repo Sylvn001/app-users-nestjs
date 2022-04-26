@@ -1,8 +1,8 @@
-# Template Repository Name
+# App Users Nest.JS
 
-> Resume of application here
+> Application using Nest.js and Prisma
 
-### 💻 Main language - Version
+### 💻 Nest.JS 8.2.5
 
 <p align="center">
   <a href="#%EF%B8%8F-tecnologies">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -16,28 +16,27 @@
 
 
 ## ⚒️ Tecnologies (example)
+- [Nest](https://docs.nestjs.com/)
+- [Typescript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
 - [Jest](https://jestjs.io/)
-- [TypeORM](https://typeorm.io/#/)
-- [Ethereal-Email](https://ethereal.email/)
-- [Typescript](https://www.typescriptlang.org/)
+- [Prisma](https://www.prisma.io/)
+- [Docker](https://www.docker.com/get-started/)
 
 ## 💻 Project
 This project as developed with purpose to use for all my projects template :D.
 
 
 ## 🚀 How start
-- Install dependencies using `yarn`
-- start web server in localhost using `yarn dev`
+- Config .env.example file and Rename to `.env`
+- run docker command in terminal using `Docker-compose build && docker-compose up`
+- Open Docker Bash `docker-compose exec app bash`
 
 ## 🕸️ Test in WEB
 Open Bowser in [`localhost:3333`](http://localhost:3333).
 
-## Send Email
-![image](https://user-images.githubusercontent.com/50564121/163296483-8af3bee7-597b-41c7-981d-330cb7155b6d.png)
-
 ## 📝 License
-This project use a <a href="./license.md"> MIT </a> License
+This project use a <a href="./LLICENSE"> MIT </a> License
 
 ## :atom_symbol: Follow me!
 - Instagram: https://www.instagram.com/sylvn001/
