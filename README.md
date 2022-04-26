@@ -29,11 +29,13 @@ This project as developed with purpose to use for all my projects template :D.
 
 ## 🚀 How start
 - Config .env.example file and Rename to `.env`
-- run docker command in terminal using `Docker-compose build && docker-compose up`
+- run docker command in terminal using `docker-compose up`
 - Open Docker Bash `docker-compose exec app bash`
 
+Note: if you use linux -> in terminal run `chmod +x .docker/entrypoint.sh` to get permission of execute.
+
 ## 🕸️ Test in WEB
-Open Bowser in [`localhost:3333`](http://localhost:3333).
+Open Bowser in [`localhost:3000`](http://localhost:3000).
 
 ## 📝 License
 This project use a <a href="./LLICENSE"> MIT </a> License
