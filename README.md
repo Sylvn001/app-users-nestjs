@@ -15,7 +15,7 @@
 
 ![code](https://user-images.githubusercontent.com/50564121/165831405-d4044a48-d94e-4408-9d05-11d80c584fa2.png)
 
-## ⚒️ Tecnologies (example)
+## ⚒️ Tecnologies
 
 - [Nest](https://docs.nestjs.com/)
 - [Typescript](https://www.typescriptlang.org/)
