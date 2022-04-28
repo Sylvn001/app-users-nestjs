@@ -12,7 +12,7 @@
   <a href="#atom_symbol-follow-me">Follow Me!</a>
 </p>
 
-![image](https://user-images.githubusercontent.com/50564121/163297818-11a4d919-58a0-4b2b-b65e-110d3aa55f72.png)
+![code](https://user-images.githubusercontent.com/50564121/165831405-d4044a48-d94e-4408-9d05-11d80c584fa2.png)
 
 ## ⚒️ Tecnologies (example)
 
@@ -37,12 +37,12 @@ Note: if you use linux -> in terminal run `chmod +x .docker/entrypoint.sh` to ge
 
 ## 🕸️ Test in WEB
 
-Open Bowser in [`localhost:3000`](http://localhost:3000).
+Use [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/download) [`localhost:3000`](http://localhost:3000) and request routes of API!.
 
 # 📚 Docs
 
 - OpenApi 3.0 Using Swagger
-- Check Here [BlogApi](http://localhost:3000/api)
+- Check Here [BlogApi](https://apiblognestjs.herokuapp.com/api)
 
 ## 📝 License
 
