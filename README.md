@@ -23,6 +23,7 @@
 - [Jest](https://jestjs.io/)
 - [Prisma](https://www.prisma.io/)
 - [Docker](https://www.docker.com/get-started/)
+- [Swagger](https://swagger.io/)
 
 ## 💻 Project
 
