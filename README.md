@@ -38,8 +38,8 @@ Note: if you use linux -> in terminal run `chmod +x .docker/entrypoint.sh` to ge
 
 ## 🕸️ Test in WEB
 
-Use [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/download) [`localhost:3000`](http://localhost:3000) and request routes of API!.
-You can test it requesting to deploy URL -> https://apiblognestjs.herokuapp.com/ 
+- Use [Postman](https://www.postman.com/) or [Insomnia](https://insomnia.rest/download) [`localhost:3000`](http://localhost:3000) and request routes of API!.
+- You can test it requesting to deploy URL -> https://apiblognestjs.herokuapp.com/ 
 
 # 📚 Docs
 
